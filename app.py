@@ -1,10 +1,9 @@
 import os
 import time
 import json
-import requests
+impclsort requests
 import streamlit as st
 from dotenv import load_dotenv
-
 # -----------------------------
 # Load environment variables
 # -----------------------------
