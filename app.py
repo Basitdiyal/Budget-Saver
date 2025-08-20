@@ -1,14 +1,13 @@
 import os
 import time
 import json
-impclsort requests
+import requests
 import streamlit as st
 from dotenv import load_dotenv
 # -----------------------------
 # Load environment variables
 # -----------------------------
 load_dotenv()
-
 # Phase-1 (OpenAI)
 AZURE_OPENAI_KEY = os.getenv("AZURE_OPENAI_KEY")
 AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
