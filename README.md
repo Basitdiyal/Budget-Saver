@@ -1,6 +1,4 @@
-## 📌 Project Title
-
-**Smart Grocery Saver – AI Receipt Analyzer**
+## 📌 Smart Grocery Saver – AI Receipt Analyzer
 
 ---
 
